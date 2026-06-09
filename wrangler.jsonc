@@ -26,10 +26,7 @@
     "remote": true
   },
   "analytics_engine_datasets": [
-    {
-      "binding": "ANALYTICS",
-      "dataset": "sink"
-    }
+    { "binding": "ANALYTICS", "dataset": "sink_analytic_events" }
   ],
   "kv_namespaces": [
     {
